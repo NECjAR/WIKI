@@ -16,7 +16,7 @@
 # WIKI
 Official Wiki library.
 
-See wiki.necjar.com for details.
+See [wiki.necjar.com](https://wiki.necjar.com) for details.
 
 <p align="center">
   <a href="https://wiki.necjar.com">
