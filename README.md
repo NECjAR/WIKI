@@ -46,7 +46,7 @@ See the [open issues](https://github.com/NECjAR/WIKI/issues) for a list of propo
 [contributors-shield]: https://img.shields.io/github/contributors/NECjAR/WIKI.svg?style=for-the-badge
 [contributors-url]: https://github.com/NECjAR/WIKI/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/NECjAR/WIKI.svg?style=for-the-badge
-[forks-url]: https://github.com/NECjAR/COM/network/members
+[forks-url]: https://github.com/NECjAR/WIKI/network/members
 [stars-shield]: https://img.shields.io/github/stars/NECjAR/WIKI.svg?style=for-the-badge
 [stars-url]: https://github.com/NECjAR/WIKI/stargazers
 [issues-shield]: https://img.shields.io/github/issues/NECjAR/WIKI.svg?style=for-the-badge
