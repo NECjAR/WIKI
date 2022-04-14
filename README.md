@@ -28,7 +28,7 @@ See wiki.necjar.com for details.
 
 This repository serves as a place for bug reports, feature requests, and general discussion.
 
-_For more examples and usage, please refer to the [Wiki](https://wiki.necjar.com/NECjAR)._
+_For more examples and usage, please refer to the [Wiki](https://wiki.necjar.com)._
 
 ## Meta
 
@@ -39,21 +39,21 @@ The man behind the [NECjAR](https://necjar.com).
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/NECjAR/COM/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/NECjAR/WIKI/issues) for a list of proposed features (and known issues).
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/NECjAR/COM.svg?style=for-the-badge
-[contributors-url]: https://github.com/NECjAR/COM/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/NECjAR/COM.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/NECjAR/WIKI.svg?style=for-the-badge
+[contributors-url]: https://github.com/NECjAR/WIKI/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/NECjAR/WIKI.svg?style=for-the-badge
 [forks-url]: https://github.com/NECjAR/COM/network/members
-[stars-shield]: https://img.shields.io/github/stars/NECjAR/COM.svg?style=for-the-badge
-[stars-url]: https://github.com/NECjAR/COM/stargazers
-[issues-shield]: https://img.shields.io/github/issues/NECjAR/COM.svg?style=for-the-badge
-[issues-url]: https://github.com/NECjAR/COM/issues
-[license-shield]: https://img.shields.io/github/license/NECjAR/COM.svg?style=for-the-badge
-[license-url]: https://github.com/NECjAR/COM/blob/master/LICENSE.txt
+[stars-shield]: https://img.shields.io/github/stars/NECjAR/WIKI.svg?style=for-the-badge
+[stars-url]: https://github.com/NECjAR/WIKI/stargazers
+[issues-shield]: https://img.shields.io/github/issues/NECjAR/WIKI.svg?style=for-the-badge
+[issues-url]: https://github.com/NECjAR/WIKI/issues
+[license-shield]: https://img.shields.io/github/license/NECjAR/WIKI.svg?style=for-the-badge
+[license-url]: https://github.com/NECjAR/WIKI/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/Kadae
-[necjar]: https://necjar.com
-[wiki]: https://wiki.necjar.com/NECjAR
+[necjar]: https://necjar.com/wiki
+[wiki]: https://wiki.necjar.com
