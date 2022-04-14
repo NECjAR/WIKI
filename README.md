@@ -14,7 +14,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 # WIKI
-Official Wiki library. See wiki.necjar.com for details.
+Official Wiki library.
 
 See wiki.necjar.com for details.
 
