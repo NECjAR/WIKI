@@ -20,7 +20,7 @@ See [wiki.necjar.com](https://wiki.necjar.com) for details.
 
 <p align="center">
   <a href="https://wiki.necjar.com">
-    <img src="https://necjar.com/j/materials/icons/icon-wiki.jpg" alt="NECjAR Wiki" width="auto" height="auto" />
+    <img src="https://necjar.com/icons/wiki.jpg" alt="NECjAR Wiki" width="auto" height="auto" />
   </a>
 </p>
 
